@@ -1,4 +1,4 @@
-# CBNST (Computational Methods for Numerical Solving Techniques)
+# CBNST (Computer Based Numerical And Statistical Techniques)
 
 This repository contains implementations of various numerical methods for solving mathematical problems. The methods include root-finding algorithms, interpolation techniques, and numerical integration methods, implemented in C++ with executable files.
 
